@@ -1,0 +1,6 @@
+{
+  "name": "Kerala Learning App CRM",
+  "description": "An Android-style CRM application for educational sales and academic counseling in Kerala, featuring AI counseling scripts, Malayalam-ready templates, and Gulf Parent trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
